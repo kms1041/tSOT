@@ -9,7 +9,7 @@ function tSOTsolution = tSOT_v1(model, data, productRxn)
 %       genes and transcriptomics should have same length
 % productRxn        Exchange reaction for target product
 %
-%%OUTPUTS
+%OUTPUTS
 % tSOTsolution      tSOT solution structure (overexpression targets and expected yield improvement)
 
     IMAT_LOWER_QUANTILE = 0.5;
