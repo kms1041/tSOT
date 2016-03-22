@@ -1,5 +1,5 @@
 function tSOTsolution = tSOT_v1(model, data, productRxn)
-% Transcriptomics-based strain optimization tool [Minsuk Kim et al, Biotech Bioeng, Under revision]
+% Transcriptomics-based strain optimization tool [Minsuk Kim et al, Biotech Bioeng, 113(3):651-660, DOI: 10.1002/bit.25830]
 %
 %INPUTS
 % model             COBRA model structure
